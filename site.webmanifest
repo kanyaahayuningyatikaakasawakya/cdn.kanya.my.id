@@ -1,0 +1,111 @@
+{
+  "lang": "en",
+  "short_name": "adactio",
+  "name": "adactio",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-QKtyl-9UM-k/YDbgdb-pQjI/AAAAAAAAC1A/G5Kl2ptKHLQ14lZ9EDs-SyGRzWV8sXypwCLcBGAsYHQ/w16-h16-p-k-no-nu/kanya.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-QKtyl-9UM-k/YDbgdb-pQjI/AAAAAAAAC1A/G5Kl2ptKHLQ14lZ9EDs-SyGRzWV8sXypwCLcBGAsYHQ/w32-h32-p-k-no-nu/kanya.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-QKtyl-9UM-k/YDbgdb-pQjI/AAAAAAAAC1A/G5Kl2ptKHLQ14lZ9EDs-SyGRzWV8sXypwCLcBGAsYHQ/w36-h36-p-k-no-nu/kanya.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-QKtyl-9UM-k/YDbgdb-pQjI/AAAAAAAAC1A/G5Kl2ptKHLQ14lZ9EDs-SyGRzWV8sXypwCLcBGAsYHQ/w48-h48-p-k-no-nu/kanya.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-QKtyl-9UM-k/YDbgdb-pQjI/AAAAAAAAC1A/G5Kl2ptKHLQ14lZ9EDs-SyGRzWV8sXypwCLcBGAsYHQ/w72-h72-p-k-no-nu/kanya.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-QKtyl-9UM-k/YDbgdb-pQjI/AAAAAAAAC1A/G5Kl2ptKHLQ14lZ9EDs-SyGRzWV8sXypwCLcBGAsYHQ/w96-h96-p-k-no-nu/kanya.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-QKtyl-9UM-k/YDbgdb-pQjI/AAAAAAAAC1A/G5Kl2ptKHLQ14lZ9EDs-SyGRzWV8sXypwCLcBGAsYHQ/w144-h144-p-k-no-nu/kanya.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-QKtyl-9UM-k/YDbgdb-pQjI/AAAAAAAAC1A/G5Kl2ptKHLQ14lZ9EDs-SyGRzWV8sXypwCLcBGAsYHQ/w180-h180-p-k-no-nu/kanya.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-QKtyl-9UM-k/YDbgdb-pQjI/AAAAAAAAC1A/G5Kl2ptKHLQ14lZ9EDs-SyGRzWV8sXypwCLcBGAsYHQ/w192-h192-p-k-no-nu/kanya.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-QKtyl-9UM-k/YDbgdb-pQjI/AAAAAAAAC1A/G5Kl2ptKHLQ14lZ9EDs-SyGRzWV8sXypwCLcBGAsYHQ/w256-h256-p-k-no-nu/kanya.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-QKtyl-9UM-k/YDbgdb-pQjI/AAAAAAAAC1A/G5Kl2ptKHLQ14lZ9EDs-SyGRzWV8sXypwCLcBGAsYHQ/w300-h300-p-k-no-nu/kanya.png",
+      "sizes": "300x300",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-QKtyl-9UM-k/YDbgdb-pQjI/AAAAAAAAC1A/G5Kl2ptKHLQ14lZ9EDs-SyGRzWV8sXypwCLcBGAsYHQ/w384-h384-p-k-no-nu/kanya.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-QKtyl-9UM-k/YDbgdb-pQjI/AAAAAAAAC1A/G5Kl2ptKHLQ14lZ9EDs-SyGRzWV8sXypwCLcBGAsYHQ/w512-h512-p-k-no-nu/kanya.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-MMKW-8rPUb8/YDa8IW4QBiI/AAAAAAAAC04/eFTofNrdHccSMZWKQvgfse3lFbScME5rQCLcBGAsYHQ/w150-h150-p-k-no-nu/kanya.jpg",
+      "sizes": "150x150",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-MMKW-8rPUb8/YDa8IW4QBiI/AAAAAAAAC04/eFTofNrdHccSMZWKQvgfse3lFbScME5rQCLcBGAsYHQ/w192-h192-p-k-no-nu/kanya.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-MMKW-8rPUb8/YDa8IW4QBiI/AAAAAAAAC04/eFTofNrdHccSMZWKQvgfse3lFbScME5rQCLcBGAsYHQ/w200-h200-p-k-no-nu/kanya.jpg",
+      "sizes": "200x200",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-MMKW-8rPUb8/YDa8IW4QBiI/AAAAAAAAC04/eFTofNrdHccSMZWKQvgfse3lFbScME5rQCLcBGAsYHQ/w300-h300-p-k-no-nu/kanya.jpg",
+      "sizes": "300x300",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-MMKW-8rPUb8/YDa8IW4QBiI/AAAAAAAAC04/eFTofNrdHccSMZWKQvgfse3lFbScME5rQCLcBGAsYHQ/w500-h500-p-k-no-nu/kanya.jpg",
+      "sizes": "500x500",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-MMKW-8rPUb8/YDa8IW4QBiI/AAAAAAAAC04/eFTofNrdHccSMZWKQvgfse3lFbScME5rQCLcBGAsYHQ/w512-h512-p-k-no-nu/kanya.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-MMKW-8rPUb8/YDa8IW4QBiI/AAAAAAAAC04/eFTofNrdHccSMZWKQvgfse3lFbScME5rQCLcBGAsYHQ/w600-h600-p-k-no-nu/kanya.jpg",
+      "sizes": "600x600",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "/",
+  "display": "minimal-ui",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}

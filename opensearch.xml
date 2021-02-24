@@ -1,0 +1,18 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Kanya</ShortName>
+  <LongName>Kanya ahayu Ning Yatika Akasawakya Search</LongName>
+  <Description>Search through articles posted on Kanya ahayu Ning Yatika Akasawakya</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <AdultContent>false</AdultContent>
+  <Language>id-id</Language>
+  <Developer>Kanya ahayu Ning Yatika Akasawakya</Developer>
+  <Contact>jeng@kanya.my.id</Contact>
+  <Tags>copywriting seo writing shortstory</Tags>
+  <Attribution>Search data from Kanya Ahayu Ning Yatika Akasawakya https:/www.kanya.my.id</Attribution>
+  <SyndicationRight>open</SyndicationRight>
+  <Query role="example" searchTerms="Flexbox"/>
+  <Image height="16" width="16" type="image/vnd.microsoft.icon">https:/www.kanya.my.id/favicon.ico</Image>
+  <Image height="64" width="64" type="image/png">https://1.bp.blogspot.com/-MMKW-8rPUb8/YDa8IW4QBiI/AAAAAAAAC04/eFTofNrdHccSMZWKQvgfse3lFbScME5rQCLcBGAsYHQ/w64-h64-p-k-no-nu/kanya.jpg</Image>
+  <Url type="text/html" template="https:/www.kanya.my.id/search?q={searchTerms}"/>
+</OpenSearchDescription>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square70x70logo src="https://1.bp.blogspot.com/-MMKW-8rPUb8/YDa8IW4QBiI/AAAAAAAAC04/eFTofNrdHccSMZWKQvgfse3lFbScME5rQCLcBGAsYHQ/w70-h70-p-k-no-nu/kanya.jpg"/>
+            <square150x150logo src="https://1.bp.blogspot.com/-MMKW-8rPUb8/YDa8IW4QBiI/AAAAAAAAC04/eFTofNrdHccSMZWKQvgfse3lFbScME5rQCLcBGAsYHQ/w150-h150-p-k-no-nu/kanya.jpg"/>
+            <square310x310logo src="https://1.bp.blogspot.com/-MMKW-8rPUb8/YDa8IW4QBiI/AAAAAAAAC04/eFTofNrdHccSMZWKQvgfse3lFbScME5rQCLcBGAsYHQ/w310-h310-p-k-no-nu/kanya.jpg"/>
+            <wide310x150logo src="https://1.bp.blogspot.com/-MMKW-8rPUb8/YDa8IW4QBiI/AAAAAAAAC04/eFTofNrdHccSMZWKQvgfse3lFbScME5rQCLcBGAsYHQ/w310-h150-p-k-no-nu/kanya.jpg"/>
+            <TileColor>#da532c</TileColor>
+        </tile>
+    </msapplication>
+</browserconfig>
