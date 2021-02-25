@@ -1,7 +1,7 @@
 {
   "lang": "en",
-  "short_name": "adactio",
-  "name": "adactio",
+  "short_name": "Kanya",
+  "name": "Kanya Ahayu Ning Yatika Akasawakya",
   "icons": [
     {
       "src": "https://1.bp.blogspot.com/-QKtyl-9UM-k/YDbgdb-pQjI/AAAAAAAAC1A/G5Kl2ptKHLQ14lZ9EDs-SyGRzWV8sXypwCLcBGAsYHQ/w16-h16-p-k-no-nu/kanya.png",
@@ -104,7 +104,7 @@
       "type": "image/jpeg"
     }
   ],
-  "start_url": "/",
+  "start_url": "https://www.kanya.my.id/",
   "display": "minimal-ui",
   "background_color": "#ffffff",
   "theme_color": "#ffffff"
